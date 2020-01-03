@@ -1,0 +1,10 @@
+name: node_exporter_inspec_profile
+title: Node Exporter InSpec Profile
+maintainer: Patrick Dayton
+copyright: The Authors
+copyright_email: daytonpa@gmail.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
+supports:
+  platform: os
